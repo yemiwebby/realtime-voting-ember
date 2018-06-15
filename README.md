@@ -1,7 +1,7 @@
 # chat-app
 
-## Build a live comments application using Ember.js and Pusher
-This project contains the source code for a very simple realtime comment application with sentiment analysis.
+## Build a realtime voting system with Ember.js and Pusher
+This project contains the source code for a realtime voting system built with Ember.js and Pusher.
 
 Take a look at the image below.
 
@@ -23,12 +23,12 @@ Take a look at the image below.
 
 ### Clone the repository
 ```bash
-$ git clone https://github.com/yemiwebby/live-comments-ember.git
+$ git clone https://github.com/yemiwebby/realtime-voting-ember.git
 ```
 
 ### Change directory
 ```bash
-$ cd live-comments-ember
+$ cd realtime-voting-ember
 ```
 
 ### Run the application
@@ -44,7 +44,7 @@ $ ember serve
 
 * [Pusher](https://pusher.com/) - A Node.js client to interact with the Pusher REST API
 
-* [Sentiment](https://github.com/thisandagain/sentiment)- Sentiment is a module that uses the AFINN-165 wordlist and Emoji Sentiment Ranking to perform sentiment analysis on arbitrary blocks of input text.
+* [Canvasjs](https://canvasjs.com/)- a responsive HTML5 Charting library for data visualization.
 
 
 ### Building
