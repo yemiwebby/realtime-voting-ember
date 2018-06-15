@@ -1,0 +1,13 @@
+
+<div class="col-md-12">
+  <div class="row">
+     {{#each poll as |data|}}            
+    <div class="col-md-3">
+      <div class="poll-device">
+          <img onclick={{action 'getElement'}} src="{{data.imgSrc}}" alt="" id="{{data.id}}">
+          <p class="text-center caption">{{data.fans}}</p>
+      </div>
+    </div>
+    {{/each}}
+  </div>
+</div>
