@@ -2,22 +2,22 @@ import Route from '@ember/routing/route';
 
 const dataset = [
     {
-        "imgSrc":"http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1528844797/nigerian-fans_eplenl.webp",
+        "imgSrc":"http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1529405850/nigerians_jojjpz.jpg",
         "id":"Nigeria",
         "fans":"Nigerian fans"
     },
     {
-        "imgSrc":"http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1528844797/mexico-fans_h3b7ao.webp",
+        "imgSrc":"http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1529405850/mexican-fans_wzfkd9.jpg",
         "id":"Mexico",
         "fans":"Mexican fans"
     },
     {
-        "imgSrc":"http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1528844797/brazilian-fans_a7e7bh.webp",
+        "imgSrc":"http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1529405850/brazil_ik4yu5.jpg",
         "id":"Brazil",
         "fans":"Brazilian fans"
     },
     {
-        "imgSrc":"http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1528844797/argetina-fans_lzu9gv.webp",
+        "imgSrc":"http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1529405850/argentina_n5e2ye.jpg",
         "id":"Argetina",
         "fans":"Argentina fans"
     }

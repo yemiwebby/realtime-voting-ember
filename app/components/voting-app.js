@@ -32,8 +32,8 @@ export default Component.extend({
         chart.render();
         
         // Pusher
-        var pusher = new Pusher('734ff5d8f1e5ed1dd419', {
-            cluster: 'us2',
+        var pusher = new Pusher('YOUR_APP_KEY', {
+            cluster: 'CLUSTER',
             encrypted: true
         });
         
