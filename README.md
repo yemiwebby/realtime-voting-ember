@@ -3,6 +3,8 @@
 ## Build a realtime voting system with Ember.js and Pusher
 This project contains the source code for a realtime voting system built with Ember.js and Pusher.
 
+[View tutorial](https://pusher.com/tutorials/voting-system-emberjs)
+
 Take a look at the image below.
 
 
